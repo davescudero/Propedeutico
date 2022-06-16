@@ -1,4 +1,10 @@
-# Propedeutico
+# Propedeutico 
+*Hola Mundo*
+
+**Hola Mundo**
+
+## HOLA
+
 
 En este repositorio encuentran el contenido para el propedéutico (*aka* prope) de la MCD en el ITAM impartido por el prof. Erick Palacios Moreno, github: [palmoreck](https://github.com/palmoreck).
 
